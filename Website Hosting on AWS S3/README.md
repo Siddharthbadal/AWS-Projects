@@ -11,4 +11,4 @@ Hosted a static website on aws s3 with custom domain.
 -   Created a cloud front distribution with catch policies to allow redirection.
 -   Updated the A record to point to the CDN instead to s3 bucket endpoint.
 
-Live website:   https://siddbadal.xyz 
+
