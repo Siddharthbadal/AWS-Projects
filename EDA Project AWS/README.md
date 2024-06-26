@@ -30,3 +30,15 @@ When an image is uploaded to an S3 bucket, a Lambda function processes the event
 ### Outcome:
 
 An event-driven application on AWS that demonstrates the core principles of EDA with S3, SNS and Lambda services. and can be extended to more complex scenarios. 
+
+![sns](https://github.com/Siddharthbadal/AWS-Projects/assets/55015090/9f982e80-9eef-4ac8-91c4-4a941c0d7f33)
+
+
+![sns-topics](https://github.com/Siddharthbadal/AWS-Projects/assets/55015090/9c0e90af-32bc-4b33-89de-59eb9551aa22)
+
+
+
+![edaemail](https://github.com/Siddharthbadal/AWS-Projects/assets/55015090/48ea1dbb-c2e4-4887-a610-af2c2eb26f1f)
+
+
+
